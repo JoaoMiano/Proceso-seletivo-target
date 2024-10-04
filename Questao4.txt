@@ -1,0 +1,7 @@
+4) Descubra a lógica e complete o próximo elemento:
+a) 1, 3, 5, 7, _9_ = sequencia iniciando com 1 onde o proximo sera o valo do anterior mais 2 (sequencia de impares)
+b) 2, 4, 8, 16, 32, 64, _128_ = sequencia iniciando com 2 onde o proximo é o anterior multiplicado por 2
+c) 0, 1, 4, 9, 16, 25, 36, _49_ = seuqencia de quadrados (0 é raiz de 0, de 1 é 1, de 2 é 4, de 3 é 9...)
+d) 4, 16, 36, 64, _100_  = quadrado dos numeros paras (2²=4, 4²=16, 6²=36...)
+e) 1, 1, 2, 3, 5, 8, _13_ = sequencia fibonacci sequenncia iniciada po 1,1 onde o proximo é a soma dos dois anteriores(sequencia da questão 3 essa foi boa)
+f) 2,10, 12, 16, 17, 18, 19, _20_ = está eu não tenho certeza a logica por tras, mas acredito que seja 20 pois apartir do 16 passou a ser incrementado apenas +1 ao numero anterior 

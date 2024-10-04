@@ -1,0 +1,6 @@
+Esta é uma uma pergunta bem famosa, que eu ja tinha visto antes, mas que me prendeu bastante atenção quando ouvi da primeira vez
+aperto o interruptor a e deixo ligado de 10 a 20 minutos, deligo e ligo o interruptor b, e vou até as salas
+
+a lampada que esta acessa é do interrupdor b.
+a lampada que esta que estiver apagada, mas estiver quente é do interruptor a
+a que etiver apagada e fria é do interruptor c
